@@ -1,4 +1,4 @@
-# huddle-landing-page
+# Huddle-landing-page-with-alternating-blocks
 
 ![](https://img.shields.io/badge/Academic-blue)
 ![](https://img.shields.io/badge/HTML-red)
@@ -6,7 +6,7 @@
 
 # Built With
 
-- Technologies used: HTML, CSS, SCSS
+- Technologies used: HTML, CSS, SASS.
 
 ### The challenge
 
